@@ -1,0 +1,25 @@
+{
+  "name": "firstnpm2",
+  "version": "0.1.0",
+  "description": "This module allows dor a dynamic footer to be generated for js applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CWelfley01/devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "cwelfley01 <CWelfley01@gmail.com> (https://www.npmjs.com/~cwelfley01)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CWelfley01/devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/CWelfley01/devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
